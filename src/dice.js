@@ -9,3 +9,13 @@ function rollDice(faces, qty) {
     }
     return result
 }
+
+function sumRoll(results) {
+    return results.reduce((acc, curr) => acc + curr)
+}
+
+
+module.exports = {
+    rollDice,
+    sumRoll
+}
