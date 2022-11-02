@@ -1,1 +1,1 @@
-console.log("Hello world. Welcome to Kenrou IT")
+console.log("Hello world. Welcome to Kenrou IT. Espero que aprendas un montón")
